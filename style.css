@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  height:100%;
+}
+nav ul li {
+  display: inline-block;
+}
+header {
+  background-color: #f2ebeb73;
+  height: 83px;
+  width: 100%;
+  position:sticky;
+}
+.name-ud{
+  margin: -44px 7px 20px 163px;
+font-size: 25px;
+color: black;
+}
+.button-set {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  margin: -1px 188vh;
+}
+.button-set button {
+  border-radius: 101px;
+}
+.button-set button {
+  font-size: 12px;
+  padding: 13px 55px 18px 54px;
+  background-color: #020003;
+  color: white;
+  border-radius: 41px;
+  margin: -67px -87px 27px 126px;
+}
+nav ul li {
+  list-style: none;
+  color:#020103;
+  margin: 49px 54px 17px 29px;
+}
+nav ul li a{
+    text-decoration: none;
+  
+}
+nav ul{
+  display: flex;
+  justify-content: center;
+}
+.side-home{
+   height: 261px;
+  width: 625px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  margin: 87px 47px 45px 166px;
+  padding: 33px 55px 24px 59px;
+}
+
+.home-image{
+ margin: -38vh 20px 20px 125vh;
+}
+.home-image img{
+  border-radius:36px;
+}
+.side-home code-ud{
+  padding: 0px 25px 20px 63px;
+}
+.side-home course-button{
+  padding:  31px 29px 34px 0px;
+}
+.home-para{
+    padding: 28px 25px 17px 20px;
+  
+  
+}
+.code-ud{
+   padding: 5px 43px;
+}
+.course-button1{
+  background-color: black;
+color: white;
+padding: 12px 19px;
+border-radius: 15px;
+}
+.h1-jobs{
+  width: 339px;
+  padding: 41px 64px;
+  font-size: 23px;
+  margin: 61px 82vh;
+}
+.layouts-start{
+    border: 2px solid #68736833;
+  width: 56vh;
+  margin: -41px 176px;
+  border-radius: 31px;
+  height: 49vh;
+}
+
+.layouts-start img{
+ height: 228px;
+margin: 13px 51px;
+}
+.free-course{
+  margin: 5px 75px;
+font-size: 22px;
+color: #0c041ed6;
+}
+.free-course-para{
+  font-size: 20px;
+margin: 7px 55px;
+}
+
+.first-layout-link{
+  text-decoration: none;
+color: white;
+background-color: #050405;
+font-size: 21px;
+padding: 9px 16px;
+border-radius: 20px;
+position: absolute;
+margin: 40px 63px 33px 179px;
+}
+#layout-contains{
+        display: grid;
+  grid-template-columns: 59vh 59vh 12vh;
+  grid-template-rows: 50vh 172px;
+    
+}
+footer{
+ color: white;
+background-color: black;
+width: 100%;
+margin: 29vh 0 0 0px;
+height: 240px;
+
+}
+footer{
+  display:inline-block;
+  text-align: center;
+  align-content: center;
+}
+
+footer p{
+  height: 222px;
+padding: 90px 20px 20px 20px;
+font-size: 19px;
+}
+nav ul li a{
+  color:black;
+  font-size: 20px;
+}

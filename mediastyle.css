@@ -1,0 +1,44 @@
+@media screen and (max-width:810px){
+.button-set{
+   margin: 30px 66vh;
+}
+.button-set button{
+padding: 9px 24px 10px 22px;}
+nav ul li{
+    margin: 48px -1px 14px 16px;
+}
+.name-ud{
+    margin: -37px -5px 25px 69px;
+font-size: 20px;
+}
+.home-image{
+    margin: 11vh 20px 20px 9vh;
+}
+.side-home{
+    margin: 87px 47px 45px 69px;
+}
+.h1-jobs{
+    margin: 61px 21vh;
+}
+#layout-contains{
+    grid-template-columns: none;
+}
+.layouts-start{
+    margin: -41px 104px;
+}
+.layouts-jobs .items2{
+  margin: 22px 22px 20px 95px;
+}
+.layouts-jobs .items3{
+margin: 450px 22px 20px 95px;
+}
+.layouts-jobs .items4{
+margin: 50px 22px 20px 95px;
+}
+.layouts-jobs .items5{
+margin: 64px 22px 20px 95px;
+}
+.layouts-jobs .items6{
+margin: 49px 22px 20px 95px;
+}
+}
